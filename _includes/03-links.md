@@ -1,1 +1,1 @@
-(https://github.com/hkamino)
+[profile link](https://github.com/hkamino)
